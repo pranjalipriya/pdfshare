@@ -1,0 +1,8 @@
+{
+    "rewrites": [
+        {
+            "source": "/pdf-collaboration-system-backend/(.*)",
+            "destination": "/pdf-collaboration-system-backend"
+        }
+    ]
+}

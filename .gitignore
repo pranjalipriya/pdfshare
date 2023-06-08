@@ -1,0 +1,6 @@
+pdf-collaboration-system-backend/node_modules/*
+pdf-collaboration-system-backend/dist/*
+pdf-collaboration-system-backend/.env
+pdf-collaboration-system-frontend/node_modules/*
+pdf-collaboration-system-frontend/dist/*
+pdf-collaboration-system-frontend/.env
